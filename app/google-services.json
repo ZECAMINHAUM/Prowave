@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917796416005",
+    "firebase_url": "https://prowave-43520.firebaseio.com",
+    "project_id": "prowave-43520",
+    "storage_bucket": "prowave-43520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917796416005:android:82e71f6dba9df1ae",
+        "android_client_info": {
+          "package_name": "company.taetech.prowave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917796416005-pkr8re0q0en3dn4qqsuatq850avsagtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "company.taetech.prowave",
+            "certificate_hash": "35e8d546bf283197739d8542fb9e4ba609d8f494"
+          }
+        },
+        {
+          "client_id": "917796416005-o2dg1460us3lg6qd3io3s7qm2k9l0nr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGRi0ICWydi4YEjlK-Y_Wh1yI5YUJm98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917796416005-o2dg1460us3lg6qd3io3s7qm2k9l0nr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

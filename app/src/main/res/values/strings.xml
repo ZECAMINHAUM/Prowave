@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prowave</string>
+    <string name="txt_email"><b>EMAIL:</b></string>
+    <string name="txt_senha"><b>SENHA:</b></string>
+    <string name="bt_entrar">Entrar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="sair">SAIR</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_info">Sobre</string>
+</resources>
